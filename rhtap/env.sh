@@ -47,4 +47,4 @@ export INFO=${INFO-true}
 export STRICT=${STRICT-true}
 export EFFECTIVE_TIME=${EFFECTIVE_TIME-now}
 export HOMEDIR=${HOMEDIR-$(pwd)}
-export TUF_MIRROR=${TUF_MIRROR-http://tuf.rhtap-tas.svc}
+export TUF_MIRROR=${TUF_MIRROR-https://tuf-rhtap-tas.apps.rhopp241115.devcluster.openshift.com}
